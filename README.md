@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI there, I'm Habib.<br><br>A passionate student fullstack developer<br>from Indonesia who loves building modern web apps<br>with React & Express<br>----------------------------------------------------------<br>- I,m currently working on: a small fullstack project<br>(React + Express).<br><br>-Learning: API handling, Frontend & Backend logic<br>and deployment.<br><br>-Open to collaborate on: web projects or creative ideas.<br><br>-Ask me about: anything Frontend & Backend,<br>or Fullstack development.<br><br>Fun fact<br>------- Coding feels easire after midnight.-------<br><br>
+HI there, I'm Habib.<br><br>A passionate student fullstack developer<br>from Indonesia who loves building modern web apps<br>with React & Express<br>----------------------------------------------------------<br>- I,m currently working on: a small fullstack project<br>(React + Express).<br><br>-Learning: API handling, Frontend & Backend logic<br>and deployment.<br><br>-Open to collaborate on: web projects or creative ideas.<br><br>-Ask me about: anything Frontend & Backend,<br>or Fullstack development.<br><br>Fun fact<br>------- Coding feels easier after midnight.-------<br><br>
 
 
 # 💻 Tech Stack:
