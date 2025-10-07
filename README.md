@@ -13,7 +13,7 @@ HI there, I'm Habib.<br><br>A passionate student fullstack developer<br>from Ind
 ![](https://github-profile-trophy.vercel.app/?username=Habib-ahmad-faqih&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Habib-ahmad-faqih&limit=5&theme=dark&combine_all_yearly_contributions=true)
